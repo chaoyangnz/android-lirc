@@ -1,3 +1,5 @@
+[![](https://www.jitpack.io/v/richdyang/android-lirc.svg)](https://www.jitpack.io/#richdyang/android-lirc)
+
 # About
 
 This is an Android wrapper library for LIRC (Linux Infrared Remote Control).
